@@ -128,12 +128,6 @@ My work sits at a crossroads that's hard to label: part ML researcher, part data
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=moaahil1110&show_icons=true&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=cccccc&bg_color=0d0d0d&count_private=true&include_all_commits=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaahil1110&layout=compact&hide_border=true&title_color=39FF14&text_color=cccccc&bg_color=0d0d0d&langs_count=8" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=moaahil1110&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=cccccc&dates=cccccc&sideNums=39FF14&currStreakNum=39FF14" />
 
 </div>
