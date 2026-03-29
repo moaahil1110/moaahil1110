@@ -10,7 +10,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=moaahil1110&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -128,7 +127,18 @@ My work sits at a crossroads that's hard to label: part ML researcher, part data
 
 <div align="center">
 
+<a href="https://github.com/moaahil1110">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=moaahil1110&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=cccccc&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moaahil1110&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=cccccc"/>
+</a>
+
+<br/><br/>
+
 <img src="https://streak-stats.demolab.com?user=moaahil1110&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=cccccc&dates=cccccc&sideNums=39FF14&currStreakNum=39FF14" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=moaahil1110&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS" />
 
 </div>
 
