@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/PES%20University-Electronic%20City%20Campus-39FF14?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/AI%20%26%20Systems-Engineer-39FF14?style=for-the-badge&logoColor=black" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20To-Collaborations-00FF41?style=for-the-badge&logoColor=black" />
 
