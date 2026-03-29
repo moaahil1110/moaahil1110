@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1200&color=39FF14&center=true&vCenter=true&width=500&lines=Mohammed+Aahil+Parson;ML+%7C+Systems+%7C+Full-Stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1200&color=39FF14&center=true&vCenter=true&width=500&background=00000000&lines=Mohammed+Aahil+Parson;ML+%7C+Systems+%7C+Full-Stack" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20Systems-Engineer-39FF14?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/AI%20%26%20Systems%20Engineer-0a0a0a?style=for-the-badge&color=0a0a0a&labelColor=0a0a0a&logoColor=39FF14" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20To-Collaborations-00FF41?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Open%20To%20Collaborations-0a0a0a?style=for-the-badge&color=0a0a0a&labelColor=0a0a0a&logoColor=39FF14" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=moaahil1110&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=moaahil1110&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS" />
 
 </div>
 
