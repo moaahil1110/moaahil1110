@@ -53,6 +53,7 @@ My work sits at a crossroads that's hard to label: part ML researcher, part data
 ![C++](https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=39FF14)
 ![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=39FF14)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=39FF14)
 ![Scala](https://img.shields.io/badge/Scala-0a0a0a?style=for-the-badge&logo=scala&logoColor=39FF14)
 
 ### ◈ Web & Backend
@@ -64,6 +65,9 @@ My work sits at a crossroads that's hard to label: part ML researcher, part data
 ![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=39FF14)
 ![Flask](https://img.shields.io/badge/Flask-0a0a0a?style=for-the-badge&logo=flask&logoColor=39FF14)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0a0a0a?style=for-the-badge&logo=streamlit&logoColor=39FF14)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=39FF14)
+![Axios](https://img.shields.io/badge/Axios-0a0a0a?style=for-the-badge&logo=axios&logoColor=39FF14)
+![Mongoose](https://img.shields.io/badge/Mongoose-0a0a0a?style=for-the-badge&logo=mongoose&logoColor=39FF14)
 
 ### ◈ AI · ML · Data
 
@@ -74,6 +78,12 @@ My work sits at a crossroads that's hard to label: part ML researcher, part data
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikitlearn&logoColor=39FF14)
 ![NumPy](https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=39FF14)
 ![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=39FF14)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=39FF14)
+![Pillow](https://img.shields.io/badge/Pillow-0a0a0a?style=for-the-badge&logo=python&logoColor=39FF14)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0a?style=for-the-badge&logo=plotly&logoColor=39FF14)
+![Seaborn](https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=39FF14)
+![SciPy](https://img.shields.io/badge/SciPy-0a0a0a?style=for-the-badge&logo=scipy&logoColor=39FF14)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0a?style=for-the-badge&logo=jupyter&logoColor=39FF14)
 
 ### ◈ Big Data & Streaming
 
