@@ -91,7 +91,7 @@ My work sits at a crossroads that's hard to label: part ML researcher, part data
 
 ### ◈ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logo=amazonwebservices&logoColor=39FF14)
+![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=39FF14)
 ![GCP](https://img.shields.io/badge/GCP-0a0a0a?style=for-the-badge&logo=googlecloud&logoColor=39FF14)
 ![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=39FF14)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0a0a0a?style=for-the-badge&logo=kubernetes&logoColor=39FF14)
